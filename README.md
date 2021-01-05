@@ -1,4 +1,4 @@
-# Menganalisa-Community-Berdasarkah-CabutOmnibusLaw
+# Menganalisa-Community-Berdasarkan-#CabutOmnibusLaw
 
 Hai project saya kali ini yaitu mendeteksi komunitas berdasarkan #CabutOmnibusLaw dengan menggunakan metode louvain. 
 

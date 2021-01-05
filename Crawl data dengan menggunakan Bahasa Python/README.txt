@@ -1,0 +1,1 @@
+Kodingan Bahasa Python ini digunakan untuk crawling data dari twitter, melakukan praprocess data serta melakukan wragling data dari twitter dengan #CabutOmnibusLaw.

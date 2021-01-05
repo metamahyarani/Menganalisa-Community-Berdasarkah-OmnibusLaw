@@ -7,4 +7,4 @@ itu merupakan kodingan untuk crawling data dari twitter, data yang sudah di prep
 
 Pada folder "Kodingan R Community #CabutOmnibusLaw" itu merupakan kodingan untuk membuat graph awal serta membuat community berdasarkan suatu hastags yaitu #CabutOmnibusLaw
 
-Dan file yang bernama edge_baru.csv dan nodes.csv adalah data digunakan yang telah dipreprocessing serta di wrangling
+Dan file yang bernama edge_baru.csv dan nodes.csv adalah data digunakan yang telah dipreprocessing serta telah di wrangling
